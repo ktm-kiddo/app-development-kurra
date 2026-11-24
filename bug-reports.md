@@ -21,3 +21,11 @@ title: Bug Reports
 8. Option Command I doesn't open an R coding window (at least for me)... it just opens the web browser debug panel.
 
 9. Something is really borked with the tab indenting... see the "MAJOR" heading down below in "Feature Requests" document.
+
+10. #### Document formats
+
+    OnPandoc markdown.md, .markdown filesOnR Markdown.Rmd filesOnText fileScripts, data and settings files (.R, .py, .csv, .yml, .bib, .tex, …), highlighted by name
+
+    A file whose format is off opens as a Text file, while that is on.\
+    \
+    What does this do??? It kinda just seems to be always on for everything and doesn't contribute anything...
