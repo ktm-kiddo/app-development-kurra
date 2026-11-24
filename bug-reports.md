@@ -20,4 +20,4 @@ title: Bug Reports
 
 8. Option Command I doesn't open an R coding window (at least for me)... it just opens the web browser debug panel.
 
-9. 
+9. Something is really borked with the tab indenting... see the "MAJOR" heading down below in "Feature Requests" document.
