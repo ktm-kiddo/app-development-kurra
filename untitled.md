@@ -26,3 +26,5 @@ lang: en-US
 
 \
 1\. Make the system for plugins... I WANT TO MAKE MY OWN PLUGINS!!! Remarkable!!!
+
+2. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
