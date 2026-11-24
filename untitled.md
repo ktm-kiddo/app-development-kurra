@@ -13,6 +13,7 @@ title: Feature Requests
 7. Double click on a document on the sidebar to change the name quickly
 8. Checkbox for to-do lists? Formatting???
 9. Need a way to select and delete multiple rows at once in a table... One at a time is **just not reasonable in this economy.**
+10. You should have a way to delete a folder and everything in it
 
 ## Medium
 
@@ -27,8 +28,6 @@ title: Feature Requests
 9. Some sort of status indcator to tell you if syncing is working/broken/in progress
    ## Major
 
-\
-1\. Make the system for plugins... I WANT TO MAKE MY OWN PLUGINS!!! Remarkable!!!
+1. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
 
-2. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
-3. I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad
+2. I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad
