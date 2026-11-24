@@ -33,3 +33,5 @@ title: Bug Reports
 11. The app should automatically open to the last open workspace, not the first one...
 
 12. The syncing to the online copy (github) is not always done and I'm not sure always if it is synced. Make a "manually sync" button, as well as making sure the app syncs before it closes every time. You can also have a toggle to change from "sync every time" to "sync every minute..."
+
+13. 
