@@ -7,7 +7,6 @@ lang: en-US
 
 1. The *Command slash* menu is really messy. Clean it up please!
 2. Make a few default color options for the cursor color for people who don't like to use the color picker.
-3. 
 
 ## Medium
 
