@@ -4,7 +4,7 @@ title: Feature Requests
 
 ## Minor
 
-1. The *Command slash* 
+1. The *Command slash* menu is really messy. Clean it up please!
 
 ## Medium
 
