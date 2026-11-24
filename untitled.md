@@ -27,8 +27,9 @@ title: Feature Requests
 8. Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
 9. Some sort of status indcator to tell you if syncing is working/broken/in progress
 10. The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files) 
+11. You need a way to move a file (or copy it) from one workspace into another
+12. Are you able to make it so that you can share only one file? View only for example... I want to be able to share one file with another person, and they can open it in a web browser and see it.
     ## Major
-
-1. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
+    1. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
 
 2. I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad
