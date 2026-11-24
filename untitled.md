@@ -11,7 +11,6 @@ lang: en-US
 4. I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
 5. The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
 6. Make different ways to sort all your documents (name, last modified, last created...)
-7. 
 
 ## Medium
 
@@ -21,8 +20,9 @@ lang: en-US
 4. App icon? Anybody?
 5. The settings menu is quite messy, particularly for server settings. Also, at the top, there seems to be a double divider?
 6. The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
-7. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise. 
+7. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
+8. Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
    ## Major
 
 \
-1\. Make the system for plugins... I WANT TO MAKE MY OWN PLUGINS!!!
+1\. Make the system for plugins... I WANT TO MAKE MY OWN PLUGINS!!! Remarkable!!!
