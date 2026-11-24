@@ -22,6 +22,7 @@ lang: en-US
 6. The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
 7. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
 8. Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
+9. Some sort of status indcator to tell you if syncing is working/broken/in progress
    ## Major
 
 \
