@@ -6,4 +6,4 @@ title: Bug Reports
 2. The little indicator icon just turns grey when "no document open" even though the sharing server should still be active.
 3. There's something finicky with the selecting text. I don't really know how to explain it...
 
-# Something
+#
