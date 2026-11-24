@@ -26,7 +26,8 @@ title: Feature Requests
 7. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
 8. Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
 9. Some sort of status indcator to tell you if syncing is working/broken/in progress
-   ## Major
+10. The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files) 
+    ## Major
 
 1. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
 
