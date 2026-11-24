@@ -10,4 +10,4 @@ title: Bug Reports
 6. When you open the app on a wifi network that blocks connections (like the school wifi) it just shows a white screen until it shows this error message
 
    *ERR_ABORTED (-3) loading 'file:///Applications/kuraa.app/Contents/Resources/app.asar/build/web/index.html'*
-7. 
+7. It's kinda finiky when creating a new document which folder it goes in. I often want it not in a folder but it automatically defaults to being in a folder even if i don't realize I have that folder open. Make it slightly clearer which folder is open.
