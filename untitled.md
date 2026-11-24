@@ -10,6 +10,8 @@ lang: en-US
 3. When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.
 4. I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
 5. The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
+6. Make different ways to sort all your documents (name, last modified, last created...)
+7. 
 
 ## Medium
 
