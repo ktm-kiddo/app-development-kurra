@@ -18,8 +18,8 @@ lang: en-US
 4. App icon? Anybody?
 5. The settings menu is quite messy, particularly for server settings. Also, at the top, there seems to be a double divider?
 6. The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
-
-## Major
+7. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise. 
+   ## Major
 
 \
 1\. Make the system for plugins... I WANT TO MAKE MY OWN PLUGINS!!!
