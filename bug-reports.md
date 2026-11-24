@@ -37,4 +37,4 @@ title: Bug Reports
 
 14. This document is still called "untitled.md" in my file system instead of "featurerequests.md" or whatever...
 
-15. you cant change a folder name from 
+15. you cant change a folder name from "drama" to "Drama"... or a file too
