@@ -20,9 +20,11 @@ title: Bug Reports
 
 8. Option Command I doesn't open an R coding window (at least for me)... it just opens the web browser debug panel.
 
-9. Something is really borked with the tab indenting... see the "MAJOR" heading down below in "Feature Requests" document.
+9. Something is really borked with the tab indenting... see the "MAJOR" heading down below in "Feature Requests" document. 
 
-10. #### Document formats
+10. Something is
+
+11. #### Document formats
 
     OnPandoc markdown.md, .markdown filesOnR Markdown.Rmd filesOnText fileScripts, data and settings files (.R, .py, .csv, .yml, .bib, .tex, …), highlighted by name
 
@@ -30,8 +32,8 @@ title: Bug Reports
     \
     What does this do??? It kinda just seems to be always on for everything and doesn't contribute anything...
 
-11. The app should automatically open to the last open workspace, not the first one...
+12. The app should automatically open to the last open workspace, not the first one...
 
-12. The syncing to the online copy (github) is not always done and I'm not sure always if it is synced. Make a "manually sync" button, as well as making sure the app syncs before it closes every time. You can also have a toggle to change from "sync every time" to "sync every minute..."
+13. The syncing to the online copy (github) is not always done and I'm not sure always if it is synced. Make a "manually sync" button, as well as making sure the app syncs before it closes every time. You can also have a toggle to change from "sync every time" to "sync every minute..."
 
-13. This document is still called "untitled.md" in my file system instead of "featurerequests.md" or whatever...
+14. This document is still called "untitled.md" in my file system instead of "featurerequests.md" or whatever...
