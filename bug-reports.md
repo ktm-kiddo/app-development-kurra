@@ -2,7 +2,7 @@
 title: Bug Reports
 ---
 
-1. When you are typing in *Italics* or **Bold** the cursor should become italic or bold. (Like it should tilt to the side slightly.
+1. When you are typing in *Italics* or **Bold** the cursor should become italic or bold. (Like it should tilt to the side slightly or be wider slightly
 
 2. The little indicator icon just turns grey when "no document open" even though the sharing server should still be active.
 
@@ -24,19 +24,12 @@ title: Bug Reports
 
 10. Something is wrong with links... you can't click on them to go to the linked page, and you should be able to do \*command k \*\*\*\*\*to use the link... I know you are already working on improving links, so you may just ignore this :(
 
-11. Document formats
+11. The app should automatically open to the last open workspace, not the first one...
 
-    *OnPandoc markdown.md, .markdown filesOnR Markdown.Rmd filesOnText fileScripts, data and settings files (.R, .py, .csv, .yml, .bib, .tex, …), highlighted by name*
+12. The syncing to the online copy (github) is not always done and I'm not sure always if it is synced. Make a "manually sync" button, as well as making sure the app syncs before it closes every time. You can also have a toggle to change from "sync every time" to "sync every minute..."
 
-    A file whose format is off opens as a Text file, while that is on.\
-    What does this do??? It kinda just seems to be always on for everything and doesn't contribute anything...
+13. This document is still called "untitled.md" in my file system instead of "featurerequests.md" or whatever...
 
-12. The app should automatically open to the last open workspace, not the first one...
+14. you cant change a folder name from "drama" to "Drama"... or a file too
 
-13. The syncing to the online copy (github) is not always done and I'm not sure always if it is synced. Make a "manually sync" button, as well as making sure the app syncs before it closes every time. You can also have a toggle to change from "sync every time" to "sync every minute..."
-
-14. This document is still called "untitled.md" in my file system instead of "featurerequests.md" or whatever...
-
-15. you cant change a folder name from "drama" to "Drama"... or a file too
-
-16. The name Kuraa shouldnt be lowercase kuraa
+15. The name Kuraa shouldnt be lowercase kuraa
