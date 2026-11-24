@@ -30,3 +30,4 @@ title: Feature Requests
 1\. Make the system for plugins... I WANT TO MAKE MY OWN PLUGINS!!! Remarkable!!!
 
 2. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
+3. I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad
