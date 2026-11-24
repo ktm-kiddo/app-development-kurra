@@ -34,4 +34,4 @@ title: Bug Reports
 
 12. The syncing to the online copy (github) is not always done and I'm not sure always if it is synced. Make a "manually sync" button, as well as making sure the app syncs before it closes every time. You can also have a toggle to change from "sync every time" to "sync every minute..."
 
-13. 
+13. This document is still called "untitled.md" in my file system instead of "featurerequests.md" or whatever...
