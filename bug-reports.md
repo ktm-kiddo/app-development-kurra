@@ -22,14 +22,13 @@ title: Bug Reports
 
 9. Something is really borked with the tab indenting... see the "MAJOR" heading down below in "Feature Requests" document. 
 
-10. Something is
+10. Something is wrong with links... you can't click on them to go to the linked page, and you should be able to do *command k *****to use the link... I know you are already working on improving links, so you may just ignore this :(
 
-11. #### Document formats
+11. Document formats
 
-    OnPandoc markdown.md, .markdown filesOnR Markdown.Rmd filesOnText fileScripts, data and settings files (.R, .py, .csv, .yml, .bib, .tex, …), highlighted by name
+    *OnPandoc markdown.md, .markdown filesOnR Markdown.Rmd filesOnText fileScripts, data and settings files (.R, .py, .csv, .yml, .bib, .tex, …), highlighted by name*
 
     A file whose format is off opens as a Text file, while that is on.\
-    \
     What does this do??? It kinda just seems to be always on for everything and doesn't contribute anything...
 
 12. The app should automatically open to the last open workspace, not the first one...
