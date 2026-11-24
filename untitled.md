@@ -1,6 +1,5 @@
 ---
 title: Feature Requests
-lang: en-US
 ---
 
 ## Minor
