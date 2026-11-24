@@ -12,6 +12,7 @@ title: Feature Requests
 6. Make different ways to sort all your documents (name, last modified, last created...)
 7. Double click on a document on the sidebar to change the name quickly
 8. Checkbox for to-do lists? Formatting???
+9. Need a way to select and delete multiple rows at once in a table... One at a time is **just not reasonable in this economy.**
 
 ## Medium
 
