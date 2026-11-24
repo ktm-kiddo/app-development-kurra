@@ -9,6 +9,7 @@ lang: en-US
 2. Make a few default color options for the cursor color for people who don't like to use the color picker.
 3. When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.
 4. I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
+5. The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
 
 ## Medium
 
