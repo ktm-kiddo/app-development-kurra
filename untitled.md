@@ -1,4 +1,3 @@
 ---
-title: Bug Reports
+title: Feature Requests
 ---
-
