@@ -10,3 +10,4 @@ title: Bug Reports
 6. When you open the app on a wifi network that blocks connections (like the school wifi) it just shows a white screen until it shows this error message
 
    *ERR_ABORTED (-3) loading 'file:///Applications/kuraa.app/Contents/Resources/app.asar/build/web/index.html'*
+7. 
