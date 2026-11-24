@@ -20,9 +20,9 @@ title: Bug Reports
 
 8. Option Command I doesn't open an R coding window (at least for me)... it just opens the web browser debug panel.
 
-9. Something is really borked with the tab indenting... see the "MAJOR" heading down below in "Feature Requests" document. 
+9. Something is really borked with the tab indenting... see the "MAJOR" heading down below in "Feature Requests" document.
 
-10. Something is wrong with links... you can't click on them to go to the linked page, and you should be able to do *command k *****to use the link... I know you are already working on improving links, so you may just ignore this :(
+10. Something is wrong with links... you can't click on them to go to the linked page, and you should be able to do \*command k \*\*\*\*\*to use the link... I know you are already working on improving links, so you may just ignore this :(
 
 11. Document formats
 
@@ -36,3 +36,5 @@ title: Bug Reports
 13. The syncing to the online copy (github) is not always done and I'm not sure always if it is synced. Make a "manually sync" button, as well as making sure the app syncs before it closes every time. You can also have a toggle to change from "sync every time" to "sync every minute..."
 
 14. This document is still called "untitled.md" in my file system instead of "featurerequests.md" or whatever...
+
+15. you cant change a folder name from 
