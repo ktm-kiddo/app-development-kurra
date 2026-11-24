@@ -11,6 +11,7 @@ title: Feature Requests
 5. The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
 6. Make different ways to sort all your documents (name, last modified, last created...)
 7. Double click on a document on the sidebar to change the name quickly
+8. Checkbox for to-do lists? Formatting???
 
 ## Medium
 
