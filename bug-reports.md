@@ -3,4 +3,4 @@ title: Bug Reports
 ---
 
 1. 1. There isn't a way to delete a folder
-   2. 
+   2. When you add a link, there is already a "https" in the field. Then if you paste a link with an https already in it it breaks everything. Make that smoother.
