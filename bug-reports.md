@@ -6,7 +6,7 @@ title: Bug Reports
    \> I'm planning a lot more for the annotations plugin, including splitting comments and codes into different plugins that are managed independently. I need to rejigger the architecture before that though, so this is just temporary.
 2. [x] I want to be able to sync and check if my other workspaces are synced in the menu on the top left even if that isn't the one i have open. Now I need to switch to that one to check.\
    \> Done! You should be able to sync them all now
-3. [ ] In a table, if your autocorrect flags something like it is unable to change it - it only adds a new row\
+3. [x] In a table, if your autocorrect flags something like it is unable to change it - it only adds a new row\
    \> I think this is done, but I couldn't fully follow what you're describing.
 4. [x] Creating a table is really annoying and I would like a hotkey\
    \> Done! Opt-Cmd-T
