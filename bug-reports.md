@@ -12,8 +12,10 @@ title: Bug Reports
    \> Done! Opt-Cmd-T
 5. [ ] It's kinda hard to see the difference between bold and not bold text on dark mode...\
    \> This will come with a larger css/styles component.
-6. [ ] The way to export a document like as a pdf seems to have dissapeared?
-7. [ ] It's impossible to delete a number like the one after this and return to the previous line. I think it may be split into multiple cells?
+6. [x] The way to export a document like as a pdf seems to have dissapeared?\
+   \> It was hidden in the preview menu item, but I've rejiggered it and now it's in a menu item called "Export..."
+7. [x] It's impossible to delete a number like the one after this and return to the previous line. I think it may be split into multiple cells?\
+   \> Done! Just a bug.
 8. [ ] In the compile menu, the folder name should be bold or italics or in quotes or something.
 9. [ ] When you quit the app and reopen it, any text in a table that has been formatted break like this:\
    \
