@@ -10,5 +10,6 @@ title: Bug Reports
 6. In a table, if your autocorrect flags something like it is unable to change it - it only adds a new row
 7. Creating a table is really annoying and I would like a hotkey
 8. It's kinda hard to see the difference between bold and not bold text on dark mode...
-9. It's impossible to delete a number like the one after this and return to the previous line. I think it may be split into multiple cells?
-10. 
+9. The way to delete a
+10. It's impossible to delete a number like the one after this and return to the previous line. I think it may be split into multiple cells?
+11. 
