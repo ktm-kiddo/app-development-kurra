@@ -13,3 +13,7 @@ title: Bug Reports
 9. [ ] The way to export a document like as a pdf seems to have dissapeared?
 10. [ ] It's impossible to delete a number like the one after this and return to the previous line. I think it may be split into multiple cells?
 11. [ ] In the compile menu, the folder name should be bold or italics or in quotes or something.
+12. [ ] When you quit the app and reopen it, any text in a table that has been formatted break like this:\
+    \
+    Feminist arguments:\\ \\ ***Pro:***\\ Liberal feminism - Motherhood is no longer considered a priority for young women working on a career.\\ \\ \*\*\*Against:\\ \*\*\*Marxist feminism - Still main key roles - Socializing the children into the role of capitalism and caring for men who complain of capitalism
+13. [ ] Why [this](https://https://drive.google.com/file/d/1fQFPlpVX0SOEhg9EeVOeDoXC1v3jddkC/view?usp=sharing)?
