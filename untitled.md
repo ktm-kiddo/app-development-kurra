@@ -1,6 +1,8 @@
-* * *
+---
+title: Feature Requests
+---
 
-## title: Feature Requests
+* * *
 
 ## Minor
 
