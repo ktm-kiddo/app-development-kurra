@@ -17,3 +17,4 @@ title: Bug Reports
     \
     Feminist arguments:\\ \\ ***Pro:***\\ Liberal feminism - Motherhood is no longer considered a priority for young women working on a career.\\ \\ \*\*\*Against:\\ \*\*\*Marxist feminism - Still main key roles - Socializing the children into the role of capitalism and caring for men who complain of capitalism
 13. [ ] When you just open the app, I like how it just opens to a blank text document. However, if you close it by opening something else, it takes a little while for the document to appear in your sidebar...
+14. [ ] I have speechify AI (I hate it) that just reads whats on my scre
