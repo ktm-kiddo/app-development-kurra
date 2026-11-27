@@ -16,3 +16,4 @@ title: Bug Reports
 12. [ ] When you quit the app and reopen it, any text in a table that has been formatted break like this:\
     \
     Feminist arguments:\\ \\ ***Pro:***\\ Liberal feminism - Motherhood is no longer considered a priority for young women working on a career.\\ \\ \*\*\*Against:\\ \*\*\*Marxist feminism - Still main key roles - Socializing the children into the role of capitalism and caring for men who complain of capitalism
+13. [ ] When you just open the app, I like how it just opens to a blank text document. However, if you close it by opening something else, it takes a little while for the document to appear in your sidebar...
