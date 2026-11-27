@@ -45,3 +45,4 @@ title: Feature Requests
 
 1. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
 2. I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad
+3. Is there a way to do pdfs without podman? It's kinda klunky
