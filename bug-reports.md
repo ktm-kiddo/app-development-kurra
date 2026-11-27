@@ -12,4 +12,4 @@ title: Bug Reports
 8. It's kinda hard to see the difference between bold and not bold text on dark mode...
 9. The way to export a document like as a pdf seems to have dissapeared?
 10. It's impossible to delete a number like the one after this and return to the previous line. I think it may be split into multiple cells?
-11. 
+11. In the compile menu, the folder name should be bold or italics or in quotes or something.
