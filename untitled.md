@@ -1,8 +1,6 @@
-:::: {.conflict}
-::: {.version by="Kuraa" commit="070810c"}
----
-title: Feature Requests
----
+* * *
+
+## title: Feature Requests
 
 ## Minor
 
@@ -50,9 +48,3 @@ title: Feature Requests
 14. I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad
 
 15. Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!
-:::
-
-::: {.version by="Peter Graif" commit="3720d60"}
-
-:::
-::::
