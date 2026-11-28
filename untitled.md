@@ -20,30 +20,19 @@ title: Feature Requests
 
 ## Medium
 
-1. I really don't like how when I close and reopen the app, the folders all reopen. I want there to be some sort of  memory - closed folders stay closed and open folders stay open.
+- [ ] Make the GUI for the editor so that you don't need to learn markdown. I would suggest a toggle able topbar that lets you select **bold** font SIZE and more...
 
-2. Make the GUI for the editor so that you don't need to learn markdown. I would suggest a toggle able topbar that lets you select **bold** font SIZE and more...
+- [ ] I really don't like how when I close and reopen the app, the folders all reopen. I want there to be some sort of  memory - closed folders stay closed and open folders stay open.
+- [ ] Change the font??? Plz :)
+- [ ] I don't like the tap layout for settings. It's really confusing, having "document" (but only the one that you have open) then "workspace" "you" and "server". I like the concept, but
+- [ ] App icon? Anybody?
+- [ ] The settings menu is quite messy, particularly for server settings. Also, at the top, there seems to be a double divider?
+- [ ] The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
+- I\[\]n settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
+- Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
+- Some sort of status indcator to tell you if syncing is working/broken/in progress
+- The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files)
+- You need a way to move a file (or copy it) from one workspace into another
+- Are you able to make it so that you can share only one file? View only for example... I want to be able to share one file with another person, and they can open it in a web browser and see it.
 
-3. Change the font??? Plz :)
-
-4. I don't like the tap layout for settings. It's really confusing, having "document" (but only the one that you have open) then "workspace" "you" and "server". I like the concept, but
-
-5. App icon? Anybody?
-
-6. The settings menu is quite messy, particularly for server settings. Also, at the top, there seems to be a double divider?
-
-7. The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
-
-8. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
-
-9. Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
-
-10. Some sort of status indcator to tell you if syncing is working/broken/in progress
-
-11. The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files)
-
-12. You need a way to move a file (or copy it) from one workspace into another
-
-13. Are you able to make it so that you can share only one file? View only for example... I want to be able to share one file with another person, and they can open it in a web browser and see it.
-
-    ## Major
+## Major
