@@ -50,7 +50,7 @@ title: Feature Requests
 
 - [x] Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️\
   \> Done!
-- [ ] I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad\
-  \> 
+- [x] I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad\
+  \> Ain't gonna happen. PDF isn't a file format. It's dark sorcery that somehow produces printable documents. There's one JS library that supposedly allows simple pdf edits, but every review I see talks about how buggy it is. Think of PDF as the "final" format for a doc, not something to be edited. If you really need to edit a pdf, you should use a dedicated program (probably adobe acrobat, since they're the only ones who have any idea how pdf works).
 - [x] Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!\
   \> Fixed!
