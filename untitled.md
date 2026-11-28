@@ -11,14 +11,14 @@ title: Feature Requests
 - [ ] Make a few default color options for the cursor color for people who don't like to use the color picker.
 - [ ] When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.\
   \> Right now, you get that if your right click on the add button. Not the most discoverable, I know. Let me think about a way to make adding new folders more discoverable.
-- I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
-- The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
-- Make different ways to sort all your documents (name, last modified, last created...)
-- Double click on a document on the sidebar to change the name quickly
-- Checkbox for to-do lists? Formatting???
-- Need a way to select and delete multiple rows at once in a table... One at a time is **just not reasonable in this economy.**
-- You should have a way to delete a folder and everything in it
-- Create a little "copy" button on the top right for R code (or code in general) so I can copy paste it all quickly.
+- [ ] I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
+- [ ] The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
+- [ ] Make different ways to sort all your documents (name, last modified, last created...)
+- [ ] Double click on a document on the sidebar to change the name quickly
+- [ ] Checkbox for to-do lists? Formatting???
+- [ ] Need a way to select and delete multiple rows at once in a table... One at a time is **just not reasonable in this economy.**
+- [ ] You should have a way to delete a folder and everything in it
+- [ ] Create a little "copy" button on the top right for R code (or code in general) so I can copy paste it all quickly.
 
 ## Medium
 
@@ -52,4 +52,5 @@ title: Feature Requests
   \> Done!
 - [ ] I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad\
   \> 
-- [ ] Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!
+- [x] Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!\
+  \> Fixed!
