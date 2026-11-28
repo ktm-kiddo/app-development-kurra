@@ -28,11 +28,11 @@ title: Feature Requests
 - [ ] App icon? Anybody?
 - [ ] The settings menu is quite messy, particularly for server settings. Also, at the top, there seems to be a double divider?
 - [ ] The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
-- I\[\]n settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
-- Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
-- Some sort of status indcator to tell you if syncing is working/broken/in progress
-- The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files)
-- You need a way to move a file (or copy it) from one workspace into another
-- Are you able to make it so that you can share only one file? View only for example... I want to be able to share one file with another person, and they can open it in a web browser and see it.
+- [ ] In settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
+- [ ] Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
+- [ ] Some sort of status indcator to tell you if syncing is working/broken/in progress
+- [ ] The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files)
+- [ ] You need a way to move a file (or copy it) from one workspace into another
+- [ ] Are you able to make it so that you can share only one file? View only for example... I want to be able to share one file with another person, and they can open it in a web browser and see it.
 
 ## Major
