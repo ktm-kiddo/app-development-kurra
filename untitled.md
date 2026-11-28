@@ -6,8 +6,6 @@ title: Feature Requests
 
 ## Minor
 
-- [x] The *Command slash* menu is really messy. Clean it up please!\
-  *Done! Though this will be an ongoing job as new things get added.*
 - [ ] Make a few default color options for the cursor color for people who don't like to use the color picker.
 - [ ] When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.\
   *Right now, you get that if your right click on the add button. Not the most discoverable, I know. Let me think about a way to make adding new folders more discoverable.*
@@ -22,35 +20,30 @@ title: Feature Requests
 
 ## Medium
 
-1. Make the GUI for the editor so that you don't need to learn markdown. I would suggest a toggle able topbar that lets you select **bold** font SIZE and more...
+1. I really don't like how when I close and reopen the app, the folders all reopen. I want there to be some sort of  memory - closed folders stay closed and open folders stay open.
 
-2. Change the font??? Plz :)
+2. Make the GUI for the editor so that you don't need to learn markdown. I would suggest a toggle able topbar that lets you select **bold** font SIZE and more...
 
-3. I don't like the tap layout for settings. It's really confusing, having "document" (but only the one that you have open) then "workspace" "you" and "server". I like the concept, but
+3. Change the font??? Plz :)
 
-4. App icon? Anybody?
+4. I don't like the tap layout for settings. It's really confusing, having "document" (but only the one that you have open) then "workspace" "you" and "server". I like the concept, but
 
-5. The settings menu is quite messy, particularly for server settings. Also, at the top, there seems to be a double divider?
+5. App icon? Anybody?
 
-6. The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
+6. The settings menu is quite messy, particularly for server settings. Also, at the top, there seems to be a double divider?
 
-7. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
+7. The app is quite slow to close. I know it has to finish syncing stuff, but now it just feels like it's bugging out. Maybe make a "closing..." loading screen or just figure out how to do that syncing beforehand...
 
-8. Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
+8. In settings, everything is REALLY wordy. The error messages are really long and could be made more concise.
 
-9. Some sort of status indcator to tell you if syncing is working/broken/in progress
+9. Your app works better when lots of people have it open. Can you make it so it by default doesn't close when you do command q or quit the app. It will also improve speed to open it if it is already open.
 
-10. The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files)
+10. Some sort of status indcator to tell you if syncing is working/broken/in progress
 
-11. You need a way to move a file (or copy it) from one workspace into another
+11. The search right now is really messy. The UI looks bad, there is no way to just search for file names (only content in files)
 
-12. Are you able to make it so that you can share only one file? View only for example... I want to be able to share one file with another person, and they can open it in a web browser and see it.
+12. You need a way to move a file (or copy it) from one workspace into another
+
+13. Are you able to make it so that you can share only one file? View only for example... I want to be able to share one file with another person, and they can open it in a web browser and see it.
 
     ## Major
-
-- [x] Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY \
-  *Done!*
-- [x] I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad\
-  *Ain't gonna happen. PDF isn't a file format. It's dark sorcery that somehow produces printable documents. There's one JS library that supposedly allows simple pdf edits, but every review I see talks about how buggy it is. Think of PDF as the "final" format for a doc, not something to be edited. If you really need to edit a pdf, you should use a dedicated program (probably adobe acrobat, since they're the only ones who have any idea how pdf works).*
-- [x] Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!\
-  *Fixed!*
