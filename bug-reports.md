@@ -25,6 +25,6 @@ title: Bug Reports
 10. [x] When you just open the app, I like how it just opens to a blank text document. However, if you close it by opening something else, it takes a little while for the document to appear in your sidebar...\
     \> Fixed!
 11. [ ] I have speechify AI (I hate it) that just reads whats on my screen. The placeholder "start writing..." triggers it and my AI attempts to rephrase it to make it more grammatically correct. Third party programs should see that as placeholder, not normal text.\
-    \> 
+    \> Fixed in the next release
 12. [ ] The text box for the synopsis on the coarkboard has a little resize indicator even though it doesn't do anything (at least on the app)\
     \> Hmm... I don't see a resize indicator. Post a picture of what you mean?
