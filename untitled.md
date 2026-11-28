@@ -45,8 +45,8 @@ title: Feature Requests
 
     ## Major
 
-13. Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️
-
-14. I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad
-
-15. Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!
+- [x] Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️\
+  \> Done!
+- [ ] I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad\
+  \> This is **))super(( hard, due to the way that pdfs are designed.** 
+- [ ] Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!
