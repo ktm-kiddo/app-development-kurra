@@ -18,6 +18,7 @@ title: Feature Requests
 - Checkbox for to-do lists? Formatting???
 - Need a way to select and delete multiple rows at once in a table... One at a time is **just not reasonable in this economy.**
 - You should have a way to delete a folder and everything in it
+- Create a little "copy" button on the top right for R code (or code in general) so I can copy paste it all quickly.
 
 ## Medium
 
