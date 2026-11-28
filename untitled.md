@@ -6,16 +6,18 @@ title: Feature Requests
 
 ## Minor
 
-1. The *Command slash* menu is really messy. Clean it up please!
-2. Make a few default color options for the cursor color for people who don't like to use the color picker.
-3. When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.
-4. I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
-5. The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
-6. Make different ways to sort all your documents (name, last modified, last created...)
-7. Double click on a document on the sidebar to change the name quickly
-8. Checkbox for to-do lists? Formatting???
-9. Need a way to select and delete multiple rows at once in a table... One at a time is **just not reasonable in this economy.**
-10. You should have a way to delete a folder and everything in it
+- [x] The *Command slash* menu is really messy. Clean it up please!\
+  \> Done! Though this will be an ongoing job as new things get added.
+- [ ] Make a few default color options for the cursor color for people who don't like to use the color picker.
+- [ ] When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.\
+  \> Right now, you get that if your right click on the add button. Not the most discoverable, I know. Let me think about a way to make adding new folders more discoverable.
+- I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
+- The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
+- Make different ways to sort all your documents (name, last modified, last created...)
+- Double click on a document on the sidebar to change the name quickly
+- Checkbox for to-do lists? Formatting???
+- Need a way to select and delete multiple rows at once in a table... One at a time is **just not reasonable in this economy.**
+- You should have a way to delete a folder and everything in it
 
 ## Medium
 
@@ -48,5 +50,5 @@ title: Feature Requests
 - [x] Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️\
   \> Done!
 - [ ] I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad\
-  \> This is **))super(( hard, due to the way that pdfs are designed.** 
+  \> 
 - [ ] Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!
