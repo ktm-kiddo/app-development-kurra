@@ -8,7 +8,6 @@ title: Feature Requests
 
 - [x] The *Command slash* menu is really messy. Clean it up please!\
   \> Done! Though this will be an ongoing job as new things get added.
-
 - [ ] Make a few default color options for the cursor color for people who don't like to use the color picker.
 - [ ] When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.\
   \> Right now, you get that if your right click on the add button. Not the most discoverable, I know. Let me think about a way to make adding new folders more discoverable.
