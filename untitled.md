@@ -7,10 +7,10 @@ title: Feature Requests
 ## Minor
 
 - [x] The *Command slash* menu is really messy. Clean it up please!\
-  \> Done! Though this will be an ongoing job as new things get added.
+  *Done! Though this will be an ongoing job as new things get added.*
 - [ ] Make a few default color options for the cursor color for people who don't like to use the color picker.
 - [ ] When you push the "add" button, you should have an option to add a new folder. Currently, the only way to add a folder is to right click on the empty space where the documents go, then click add folder. It's kinda hard to find.\
-  \> Right now, you get that if your right click on the add button. Not the most discoverable, I know. Let me think about a way to make adding new folders more discoverable.
+  *Right now, you get that if your right click on the add button. Not the most discoverable, I know. Let me think about a way to make adding new folders more discoverable.*
 - [ ] I would change the font of the settings menu to the font here. It's good and it can kinda be your "style"...
 - [ ] The "Rename" icon when you hover over a document on the left sidebar is too detailed and hard to make out. Simplify the icon so it is easier.
 - [ ] Make different ways to sort all your documents (name, last modified, last created...)
@@ -48,9 +48,9 @@ title: Feature Requests
 
     ## Major
 
-- [x] Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY 🏞️\
-  \> Done!
+- [x] Different file formats :) Please.....!!!!! I WANT IMAGES SO BADLY \
+  *Done!*
 - [x] I want it to be able to edit pdfs... I know that isn't really your design... but i want it so bad\
-  \> Ain't gonna happen. PDF isn't a file format. It's dark sorcery that somehow produces printable documents. There's one JS library that supposedly allows simple pdf edits, but every review I see talks about how buggy it is. Think of PDF as the "final" format for a doc, not something to be edited. If you really need to edit a pdf, you should use a dedicated program (probably adobe acrobat, since they're the only ones who have any idea how pdf works).
+  *Ain't gonna happen. PDF isn't a file format. It's dark sorcery that somehow produces printable documents. There's one JS library that supposedly allows simple pdf edits, but every review I see talks about how buggy it is. Think of PDF as the "final" format for a doc, not something to be edited. If you really need to edit a pdf, you should use a dedicated program (probably adobe acrobat, since they're the only ones who have any idea how pdf works).*
 - [x] Is there a way to do pdfs without podman? It's kinda klunky and podman is OVER A GIGABYTE?!?!?!?!\
-  \> Fixed!
+  *Fixed!*
